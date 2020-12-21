@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		48285CE12590E30500E95704 /* SwiftUIViewExcercise2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48285CE02590E30500E95704 /* SwiftUIViewExcercise2.swift */; };
 		48E71525258F7EAB005E6FB4 /* SwiftUIStacksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E71524258F7EAB005E6FB4 /* SwiftUIStacksApp.swift */; };
 		48E71527258F7EAB005E6FB4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E71526258F7EAB005E6FB4 /* ContentView.swift */; };
 		48E71529258F7EAC005E6FB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48E71528258F7EAC005E6FB4 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		48285CE02590E30500E95704 /* SwiftUIViewExcercise2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewExcercise2.swift; sourceTree = "<group>"; };
 		48E71521258F7EAB005E6FB4 /* SwiftUIStacks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIStacks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48E71524258F7EAB005E6FB4 /* SwiftUIStacksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStacksApp.swift; sourceTree = "<group>"; };
 		48E71526258F7EAB005E6FB4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				48E71524258F7EAB005E6FB4 /* SwiftUIStacksApp.swift */,
 				48E71526258F7EAB005E6FB4 /* ContentView.swift */,
+				48285CE02590E30500E95704 /* SwiftUIViewExcercise2.swift */,
 				48E71528258F7EAC005E6FB4 /* Assets.xcassets */,
 				48E7152D258F7EAC005E6FB4 /* Info.plist */,
 				48E7152A258F7EAC005E6FB4 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				48E71527258F7EAB005E6FB4 /* ContentView.swift in Sources */,
 				48E71525258F7EAB005E6FB4 /* SwiftUIStacksApp.swift in Sources */,
+				48285CE12590E30500E95704 /* SwiftUIViewExcercise2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
